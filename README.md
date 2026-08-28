@@ -183,7 +183,8 @@ C) Conselho Monetário Nacional (CMN), composto pelo Ministro da Fazenda, Minist
 D) Conselho Nacional de Seguros Privados (CNSP), responsável por regular o mercado de seguros e previdência aberta.
 
 **Gabarito Comentado:**
-A alternativa correta é a **C**. O **CMN** é definido como o **órgão superior** ou deliberativo máximo do SFN. Ele não possui funções executivas (não fiscaliza diretamente), mas estabelece as regras e diretrizes gerais. Sua composição atual é formada por três membros: o **Ministro da Fazenda** (que o preside), o **Ministro do Planejamento e Orçamento** e o **Presidente do Banco Central**.
+A alternativa correta é a **C**. 
+O **CMN** é definido como o **órgão superior** ou deliberativo máximo do SFN. Ele não possui funções executivas (não fiscaliza diretamente), mas estabelece as regras e diretrizes gerais. Sua composição atual é formada por três membros: o **Ministro da Fazenda** (que o preside), o **Ministro do Planejamento e Orçamento** e o **Presidente do Banco Central**.
 
 ---
 
@@ -200,7 +201,8 @@ C) Títulos Públicos Federais (Tesouro Direto).
 D) Letras de Crédito Imobiliário (LCI) ou do Agronegócio (LCA).
 
 **Gabarito Comentado:**
-A alternativa correta é a **D**. As **LCIs e LCAs** são títulos emitidos por instituições financeiras que contam com a garantia do **FGC** (até o limite de R\$ 250 mil por CPF e por instituição). Além disso, o governo oferece o incentivo da **isenção de IR para pessoas físicas** nesses títulos para fomentar os setores imobiliário e do agronegócio. O CDB possui garantia do FGC, mas é tributado; já as debêntures e títulos públicos não possuem a proteção do FGC.
+A alternativa correta é a **D**. 
+As **LCIs e LCAs** são títulos emitidos por instituições financeiras que contam com a garantia do **FGC** (até o limite de R\$ 250 mil por CPF e por instituição). Além disso, o governo oferece o incentivo da **isenção de IR para pessoas físicas** nesses títulos para fomentar os setores imobiliário e do agronegócio. O CDB possui garantia do FGC, mas é tributado; já as debêntures e títulos públicos não possuem a proteção do FGC.
 
 ---
 
@@ -217,7 +219,8 @@ C) A alíquota é de 22,5% para fundos de curto prazo e 17,5% para longo prazo.
 D) O próprio investidor é responsável por gerar a guia (DARF) e realizar o pagamento.
 
 **Gabarito Comentado:**
-A alternativa correta é a **B**. O **Come-cotas** é uma antecipação do IR que ocorre semestralmente, especificamente nos meses de **maio e novembro**. Ele se aplica a fundos abertos de renda fixa, cambiais e multimercados. A responsabilidade pelo recolhimento é do **administrador do fundo** e não do investidor. Vale ressaltar que os **fundos de ações (FIA) não possuem come-cotas**. As alíquotas de antecipação são de 20% para fundos de curto prazo e 15% para fundos de longo prazo.
+A alternativa correta é a **B**. 
+O **Come-cotas** é uma antecipação do IR que ocorre semestralmente, especificamente nos meses de **maio e novembro**. Ele se aplica a fundos abertos de renda fixa, cambiais e multimercados. A responsabilidade pelo recolhimento é do **administrador do fundo** e não do investidor. Vale ressaltar que os **fundos de ações (FIA) não possuem come-cotas**. As alíquotas de antecipação são de 20% para fundos de curto prazo e 15% para fundos de longo prazo.
 
 ---
 
@@ -225,4 +228,3 @@ A alternativa correta é a **B**. O **Come-cotas** é uma antecipação do IR qu
 * *"Explique a diferença entre Marcação a Mercado (MTM) e Marcação na Curva de forma simples."*
 * *"Crie um checklist com os 5 erros mais comuns em provas sobre Fundos de Investimento."*
 * *"Como funciona a regra de tributação regressiva para investimentos de Renda Fixa?"*
-*
