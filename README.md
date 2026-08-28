@@ -175,8 +175,11 @@ Com base nos materiais de estudo fornecidos sobre o **Sistema Financeiro Naciona
 **Pergunta:** Qual é o órgão **deliberativo máximo** do Sistema Financeiro Nacional, responsável por fixar as diretrizes das políticas monetária, cambial e de crédito, e qual é a sua composição atual?
 
 A) Banco Central do Brasil (BCB), composto por diretores indicados pelo Presidente da República.
+
 B) Comissão de Valores Mobiliários (CVM), composta por um colegiado de especialistas do mercado de capitais.
+
 C) Conselho Monetário Nacional (CMN), composto pelo Ministro da Fazenda, Ministro do Planejamento e Orçamento e pelo Presidente do Banco Central.
+
 D) Conselho Nacional de Seguros Privados (CNSP), responsável por regular o mercado de seguros e previdência aberta.
 
 **Gabarito Comentado:**
@@ -189,8 +192,11 @@ A alternativa correta é a **C**. O **CMN** é definido como o **órgão superio
 **Pergunta:** Um investidor pessoa física busca um ativo de **Renda Fixa** que ofereça, simultaneamente, a proteção do **Fundo Garantidor de Créditos (FGC)** e **isenção de Imposto de Renda**. Qual das opções abaixo atende a esses requisitos?
 
 A) Debêntures Comuns emitidas por empresas de capital aberto.
+
 B) Certificados de Depósito Bancário (CDB).
+
 C) Títulos Públicos Federais (Tesouro Direto).
+
 D) Letras de Crédito Imobiliário (LCI) ou do Agronegócio (LCA).
 
 **Gabarito Comentado:**
@@ -203,8 +209,11 @@ A alternativa correta é a **D**. As **LCIs e LCAs** são títulos emitidos por 
 **Pergunta:** Sobre o mecanismo do **"Come-cotas"**, que é a antecipação semestral do Imposto de Renda em determinados fundos de investimento, é correto afirmar que:
 
 A) Incide sobre fundos de ações, com alíquota única de 15%.
+
 B) Ocorre nos últimos dias úteis dos meses de **maio e novembro** em fundos abertos de renda fixa e multimercados.
+
 C) A alíquota é de 22,5% para fundos de curto prazo e 17,5% para longo prazo.
+
 D) O próprio investidor é responsável por gerar a guia (DARF) e realizar o pagamento.
 
 **Gabarito Comentado:**
